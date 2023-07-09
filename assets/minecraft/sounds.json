@@ -1,0 +1,83 @@
+{
+    "music.game": {
+     "category": "music",
+     "sounds": [
+      {
+       "name": "music/game/alpha",
+       "stream": true
+      },
+      {
+       "name": "music/game/ballada",
+       "stream": true
+      },
+      {
+       "name": "music/game/cliffs",
+       "stream": true
+      },
+      {
+        "name": "music/game/water/coldOcean",
+        "stream": true
+       },
+       {
+        "name": "music/game/end/enderEye",
+        "stream": true
+       },
+       {
+        "name": "music/game/icebergWonders",
+        "stream": true
+       },
+       {
+        "name": "music/game/mice",
+        "stream": true
+       },
+       {
+        "name": "music/game/minecraftRenewed",
+        "stream": true
+       },
+       {
+        "name": "music/game/miningDeep",
+        "stream": true
+       },
+       {
+        "name": "music/game/monstersNearby",
+        "stream": true
+       },
+       {
+        "name": "music/game/nether/piglinCGI",
+        "stream": true
+       },
+       {
+        "name": "music/game/ravine",
+        "stream": true
+       },
+       {
+        "name": "music/game/seventeen",
+        "stream": true
+       },
+       {
+        "name": "music/game/slowStart",
+        "stream": true
+       },
+       {
+        "name": "music/game/stevesChoice",
+        "stream": true
+       },
+       {
+        "name": "music/game/sunriseMesa",
+        "stream": true
+       },
+       {
+        "name": "music/game/thanksNotch",
+        "stream": true
+       },
+       {
+        "name": "music/game/unknownBiome",
+        "stream": true
+       },
+       {
+        "name": "music/game/winterTwentyEleven",
+        "stream": true
+       }
+     ]
+    }
+}
